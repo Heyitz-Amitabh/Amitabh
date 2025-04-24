@@ -2,5 +2,5 @@
 const button = document.getElementById('myButton');
 
 button.addEventListener('click', () => {
-  alert('Hello from ES6!');
+  alert('Hello from Amitabh And Ankit!');
 });
